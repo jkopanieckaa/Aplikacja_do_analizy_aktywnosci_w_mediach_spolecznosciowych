@@ -1,5 +1,5 @@
 # Aplikacja_do_analizy_aktywnosci_w_mediach_spolecznosciowych
-Application for analyzing social media activity
+## Application for analyzing social media activity
 
 Projekt inżynierski zrealizowany w ramach pracy dyplomowej na Zachodniopomorskim Uniwersytecie Technologicznym w Szczecinie.
 
