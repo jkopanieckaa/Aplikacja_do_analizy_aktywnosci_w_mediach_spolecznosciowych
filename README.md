@@ -6,6 +6,7 @@ Projekt inżynierski zrealizowany w ramach pracy dyplomowej na Zachodniopomorski
 
 W katalogu projektu uruchom w terminalu polecenie: 
 * streamlit run Strona_Główna.py
+  
 Aplikacja powinna otworzyć się w przeglądarce internetowej
 
 
