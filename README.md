@@ -1,0 +1,2 @@
+# Aplikacja_do_analizy_aktywnosci_w_mediach_spolecznosciowych
+Application for analyzing social media activity
