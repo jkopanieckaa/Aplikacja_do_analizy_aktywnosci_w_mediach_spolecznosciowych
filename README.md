@@ -9,4 +9,4 @@ W katalogu projektu uruchom w terminalu polecenie: streamlit run Strona_Główna
 Aplikacja powinna otworzyć się w przeglądarce internetowej
 
 
-Do uruchomienia aplikacji potrzebna jest wcześniej zainstalowana biblioteka streamlit: pip install streamlit
+* Do uruchomienia aplikacji potrzebna jest wcześniej zainstalowana biblioteka streamlit: pip install streamlit
